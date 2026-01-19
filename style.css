@@ -1,0 +1,38 @@
+
+.inter_font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing:auto;
+  font-weight:<weight>;
+  font-style:normal;
+}
+
+.cmn_btn{
+
+    color:white;
+    background: linear-gradient(47.64deg, rgba(247, 233, 63, 1),rgba(251, 9, 180, 1),rgba(145, 0, 248, 1));
+    border-radius: 15px;
+    padding: 5px;
+    
+}
+
+.container{
+
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+header{
+    background: rgba(26, 11, 46, 1);;
+}
+
+main{
+    background: url(assets/hero-bg.png);
+    width: 100%;
+    height: 760px;
+    background-repeat:no-repeat ;
+    background-position: center;
+}
+
+.banner_image{
+    
+}
